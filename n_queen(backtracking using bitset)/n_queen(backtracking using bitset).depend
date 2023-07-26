@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612353777 source:c:\users\faisa\desktop\compeditive programing\n_queen(backtracking using bitset)\main.cpp
+	<iostream>
+	<vector>
+	<bitset>
+

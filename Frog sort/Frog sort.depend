@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613035686 source:c:\users\faisa\desktop\compeditive programing\frog sort\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
